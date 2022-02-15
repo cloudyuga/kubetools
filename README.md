@@ -79,7 +79,7 @@ Loki - [Like Prometheus, but for logs](https://github.com/grafana/loki)<br>
 ## Hands on Labs
 
 | The Lesser Known Side Of Kubernetes API | SubPath In Volumes | Mounting Volume with RWX mode in KIND Cluster using NFS |
-|---------|---------|---------|
+|:---------:|:---------:|:---------:|
 | [![The Lesser Known Side Of Kubernetes API](https://cloudyuga.guru/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaWt6TkRBME5EUTBaQzFpWWpnNUxUUmpZbU10WWpReU55MW1ZemszTUdFNU5EY3paV0lHT2daRlZBPT0iLCJleHAiOm51bGwsInB1ciI6ImJsb2JfaWQifX0=--6540b1f18c5ec8aca538c70dbb8d78f2d2932bdb/k8sapi1.JPG)](https://cloudyuga.guru/hands_on_lab/kubernetesapi)         |   [![SubPath In Volumes](http://i3.ytimg.com/vi/TEJZwVZGq6s/maxresdefault.jpg)](https://cloudyuga.guru/hands_on_lab/subpath)      |     [![Mounting Volume with RWX mode in KIND Cluster using NFS](https://i3.ytimg.com/vi/8VbF4BpNOdU/maxresdefault.jpg)](https://cloudyuga.guru/hands_on_lab/nfs-kind)    |
 
 ## Troubleshooting
