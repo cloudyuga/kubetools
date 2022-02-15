@@ -82,6 +82,10 @@ Loki - [Like Prometheus, but for logs](https://github.com/grafana/loki)<br>
 |:---------:|:---------:|:---------:|
 | [![The Lesser Known Side Of Kubernetes API](https://cloudyuga.guru/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaWt6TkRBME5EUTBaQzFpWWpnNUxUUmpZbU10WWpReU55MW1ZemszTUdFNU5EY3paV0lHT2daRlZBPT0iLCJleHAiOm51bGwsInB1ciI6ImJsb2JfaWQifX0=--6540b1f18c5ec8aca538c70dbb8d78f2d2932bdb/k8sapi1.JPG)](https://cloudyuga.guru/hands_on_lab/kubernetesapi)         |   [![SubPath In Volumes](http://i3.ytimg.com/vi/TEJZwVZGq6s/maxresdefault.jpg)](https://cloudyuga.guru/hands_on_lab/subpath)      |     [![Mounting Volume with RWX mode in KIND Cluster using NFS](https://i3.ytimg.com/vi/8VbF4BpNOdU/maxresdefault.jpg)](https://cloudyuga.guru/hands_on_lab/nfs-kind)    |
 
+| CI/CD with Jenkins & ArgoCD |
+|:---------:|
+| [![CI/CD with Jenkins & ArgoCD](https://i3.ytimg.com/vi/cCYnIQZnlRg/maxresdefault.jpg)](https://cloudyuga.guru/hands_on_lab/jenkins-argo) |
+
 ## Troubleshooting
 
 Kubectl-debug - [Allows you to run a new container with all the troubleshooting tools installed in running pod for debugging purpose](https://github.com/aylei/kubectl-debug)<br>
